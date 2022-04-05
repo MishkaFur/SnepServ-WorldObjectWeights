@@ -2,7 +2,7 @@
 {
     using Eco.Gameplay.Items;
 
-  [Weight(1000)]
+  [Weight(3000)]
     public partial class StuffedBisonItem
     {
 

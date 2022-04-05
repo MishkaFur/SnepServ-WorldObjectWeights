@@ -2,7 +2,7 @@
 {
     using Eco.Gameplay.Items;
 
-  [Weight(1000)]
+  [Weight(3500)]
     public partial class SpinMelterItem
     {
 

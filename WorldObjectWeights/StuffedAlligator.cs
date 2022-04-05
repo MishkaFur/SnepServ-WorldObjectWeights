@@ -2,7 +2,7 @@
 {
     using Eco.Gameplay.Items;
 
-  [Weight(1000)]
+  [Weight(1250)]
     public partial class StuffedAlligatorItem
     {
 

@@ -2,7 +2,7 @@
 {
     using Eco.Gameplay.Items;
 
-  [Weight(3000)]
+  [Weight(2000)]
     public partial class CastIronTableItem
     {
 
