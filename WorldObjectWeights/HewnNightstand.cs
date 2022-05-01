@@ -3,7 +3,7 @@
     using Eco.Gameplay.Items;
 
   [Weight(1000)]
-    public partial class HewnNightStandItem
+    public partial class HewnNightstandItem
     {
 
     }
